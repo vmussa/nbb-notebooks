@@ -1,220 +1,235 @@
 Pos.,Jogador,Equipe,JO,Min,TO,FC,T/FC
-1,Nogueira #92,Fortaleza B. C.,9,18.19,1.56,1.67,0.93
-2,Diego #15,BRB/Brasília,15,31.46,1.07,3.2,0.33
-3,Maique #35,Paulistano,15,25.63,0.93,2.73,0.34
-4,Gruber #20,Mogi,14,22.11,0.93,2.93,0.32
-5,Leonardo #21,UNIFACISA,10,15.7,0.9,3.4,0.26
-6,Wesley #21,Mogi,15,30.61,0.8,2.87,0.28
-7,Renan #44,São Paulo,15,23.33,0.8,1.67,0.48
-8,Lucas Mariano #28,São Paulo,15,26.64,0.8,2.27,0.35
-9,Gui Santos #11,Minas,14,20.43,0.79,2.93,0.27
-10,Siewert #25,Corinthians,9,28.1,0.78,2.78,0.28
-11,Miller #33,Corinthians,13,26.64,0.77,2.62,0.29
-12,Mathias #12,Fortaleza B. C.,13,19.09,0.77,2.38,0.32
-13,Sualisson #14,Fortaleza B. C.,12,25.33,0.75,2.08,0.36
-14,Georginho #14,São Paulo,15,30.89,0.73,2.2,0.33
-15,Márcio #3,Sesi Franca,10,16.82,0.7,2.9,0.24
-16,L. Cauê #23,Corinthians,13,19.85,0.69,3.31,0.21
-17,Teichmann #11,Pinheiros,15,26.72,0.67,2.73,0.24
-18,Lucas Dias #9,Sesi Franca,15,34.14,0.67,2.33,0.29
-19,Cauê #8,Paulistano,11,29.03,0.55,1.36,0.4
-20,João Vitor #0,UNIFACISA,2,14.64,0.5,3.0,0.17
-21,Funches III #1,Pato Basquete,12,25.97,0.5,3.5,0.14
-22,Batista #13,Minas,14,25.8,0.5,2.71,0.18
-23,Gui Deodato #1,Bauru,14,31.75,0.5,2.5,0.2
-24,Scheuer #14,Pato Basquete,15,21.6,0.47,2.4,0.19
-25,M. Pajé #25,VipTech CMB,15,23.75,0.47,1.93,0.24
-26,Hubner #77,Sesi Franca,15,22.4,0.47,2.87,0.16
-27,Humberto #19,Pinheiros,15,32.49,0.47,3.8,0.12
-28,Demétrio #71,Flamengo,13,19.39,0.46,1.62,0.29
-29,Alex #13,Cerrado Basquete,12,13.44,0.42,1.83,0.23
-30,Paranhos #24,UNIFACISA,13,23.97,0.38,2.46,0.16
-31,Caio Torres #13,BRB/Brasília,13,25.38,0.38,2.38,0.16
-32,Renato #15,Corinthians,8,25.17,0.38,2.63,0.14
-33,Zach Graham #32,Bauru,8,31.54,0.38,2.0,0.19
-34,Nesbitt #25,Minas,14,29.17,0.36,2.93,0.12
-35,Mineiro #12,Flamengo,14,24.36,0.36,1.93,0.19
-36,D. Nunes #24,Cerrado Basquete,14,27.36,0.36,1.57,0.23
-37,D. Souza #12,Pinheiros,3,8.47,0.33,1.67,0.2
-38,Ronald #6,Minas,6,11.54,0.33,2.5,0.13
-39,Douglas Santos #0,Mogi,9,16.87,0.33,3.22,0.1
-40,Holloway #1,Fortaleza B. C.,12,34.34,0.33,2.58,0.13
-41,Gui Abreu #33,Sesi Franca,12,18.89,0.33,2.0,0.17
-42,Antonio #11,KTO/Caxias do Sul,15,28.58,0.33,2.4,0.14
-43,Leal #2,Pato Basquete,15,18.37,0.33,3.13,0.11
-44,Sérgio #1,Cerrado Basquete,15,11.78,0.33,2.33,0.14
-45,R. Rachel #20,Flamengo,13,7.7,0.31,1.0,0.31
-46,Olivinha #16,Flamengo,13,23.47,0.31,1.46,0.21
-47,Gerson #1,São Paulo,13,10.81,0.31,2.15,0.14
-48,Yeager #3,BRB/Brasília,7,33.31,0.29,2.86,0.1
-49,Aquiles #20,Pato Basquete,14,15.22,0.29,2.14,0.13
-50,Fuzaro #6,Sesi Franca,14,30.4,0.29,2.43,0.12
-51,Gabriel #12,Pato Basquete,11,12.91,0.27,1.64,0.17
-52,Felipe #16,Mogi,11,3.86,0.27,0.55,0.5
-53,Kurtz #34,Mogi,15,10.93,0.27,1.73,0.15
-54,Dikembe #20,Bauru,15,15.32,0.27,1.93,0.14
-55,Barbosa #32,Paulistano,15,17.74,0.27,2.0,0.13
-56,Hettsheimeir #30,Flamengo,15,21.43,0.27,2.13,0.13
-57,Rafael #12,Paulistano,8,2.68,0.25,0.5,0.5
-58,Tom #40,VipTech CMB,13,10.35,0.23,2.54,0.09
-59,Adyel #4,Sesi Franca,14,13.2,0.21,1.21,0.18
-60,Cauê #8,Fortaleza B. C.,14,22.27,0.21,2.93,0.07
-61,Zubiaurre #31,Pinheiros,14,13.72,0.21,1.29,0.17
-62,Rafa Moreira #9,Minas,10,20.26,0.2,3.1,0.06
-63,Pezão #21,VipTech CMB,15,12.46,0.2,1.53,0.13
-64,Fabricio #10,Mogi,15,31.4,0.2,2.2,0.09
-65,Servelin #3,Pato Basquete,15,18.1,0.2,1.47,0.14
-66,Paulo #7,Cerrado Basquete,15,26.9,0.2,2.33,0.09
-67,Lucão #31,VipTech CMB,15,17.99,0.2,2.4,0.08
-68,Luizinho #11,VipTech CMB,15,17.36,0.2,1.47,0.14
-69,André Goes #40,Sesi Franca,15,31.84,0.2,3.07,0.07
-70,Gabriel Jaú #25,Bauru,11,20.72,0.18,3.27,0.06
-71,Buffat #9,Pinheiros,11,23.05,0.18,1.64,0.11
-72,Cassiano #5,Mogi,12,14.5,0.17,1.33,0.13
-73,Johnson Sr #22,Minas,12,28.94,0.17,2.42,0.07
-74,Jhonatan #7,Flamengo,12,20.73,0.17,2.25,0.07
-75,M. Douglas #13,Pinheiros,13,7.17,0.15,0.85,0.18
-76,Fuller #14,Cerrado Basquete,13,31.74,0.15,1.31,0.12
-77,Ambrosino #35,Cerrado Basquete,13,11.4,0.15,1.85,0.08
-78,W. Sena #21,Pinheiros,13,16.38,0.15,2.08,0.07
-79,Gabriel #7,Fortaleza B. C.,7,6.85,0.14,0.57,0.25
-80,R. Stabile #17,KTO/Caxias do Sul,14,10.11,0.14,2.21,0.06
-81,Da Silva #7,KTO/Caxias do Sul,14,27.74,0.14,2.21,0.06
-82,Castellon #8,VipTech CMB,14,18.55,0.14,1.07,0.13
-83,Matheusinho #9,Pato Basquete,14,23.59,0.14,1.71,0.08
-84,Munford #14,Pinheiros,15,23.84,0.13,1.93,0.07
-85,Tyrone Curnell #0,Bauru,15,28.96,0.13,3.4,0.04
-86,Marcelão #5,BRB/Brasília,15,15.79,0.13,1.93,0.07
-87,Nico #22,KTO/Caxias do Sul,15,31.08,0.13,2.4,0.06
-88,Crescenzi #8,Cerrado Basquete,15,13.68,0.13,2.0,0.07
-89,Pedro #9,KTO/Caxias do Sul,15,19.41,0.13,3.2,0.04
-90,Nehemias #7,UNIFACISA,15,26.91,0.13,1.8,0.07
-91,Pastor #9,UNIFACISA,15,22.93,0.13,2.4,0.06
-92,Lucas Lima #4,Cerrado Basquete,15,17.59,0.13,2.2,0.06
-93,Coleman #9,Mogi,8,34.02,0.13,2.75,0.05
-94,Felipe #33,Fortaleza B. C.,8,28.04,0.13,3.0,0.04
-95,Shilton #66,KTO/Caxias do Sul,9,27.45,0.11,2.67,0.04
-96,Arthur #36,Corinthians,9,22.39,0.11,2.0,0.06
-97,Cook #55,VipTech CMB,9,32.79,0.11,2.0,0.06
-98,Coelho #10,Cerrado Basquete,11,28.43,0.09,2.36,0.04
-99,Edu Marília #11,Sesi Franca,11,5.48,0.09,1.09,0.08
-100,Brite #3,Fortaleza B. C.,12,27.27,0.08,2.5,0.03
-101,Parodi #21,Minas,12,23.45,0.08,2.17,0.04
-102,Rodrigues #16,Pato Basquete,13,7.97,0.08,0.85,0.09
-103,Laster #14,BRB/Brasília,13,32.51,0.08,2.54,0.03
-104,Vezarinho #10,Corinthians,13,13.1,0.08,1.23,0.06
-105,Alex #10,Fortaleza B. C.,13,21.39,0.08,2.46,0.03
-106,Jefferson #0,BRB/Brasília,13,23.45,0.08,1.54,0.05
-107,Von Haydin #30,Cerrado Basquete,14,19.51,0.07,1.71,0.04
-108,Valter #28,Pinheiros,14,12.39,0.07,1.57,0.05
-109,Rashaun #17,Fortaleza B. C.,14,24.99,0.07,1.79,0.04
-110,Alex Garcia #10,Bauru,14,32.32,0.07,3.07,0.02
-111,Dawkins #10,São Paulo,14,15.07,0.07,0.79,0.09
-112,Isaac #7,São Paulo,14,13.91,0.07,1.79,0.04
-113,Augusto #55,Pato Basquete,15,20.9,0.07,2.8,0.02
-114,Pedro Teruel #12,KTO/Caxias do Sul,15,25.44,0.07,2.53,0.03
-115,Elinho #5,Sesi Franca,15,33.2,0.07,2.13,0.03
-116,Betinho #26,UNIFACISA,15,28.58,0.07,2.47,0.03
-117,Rafa #16,UNIFACISA,15,20.13,0.07,2.87,0.02
-118,Pierotti #4,VipTech CMB,15,32.75,0.07,1.73,0.04
-119,Jimmy #18,Paulistano,15,27.78,0.07,2.4,0.03
-120,Pecos #23,UNIFACISA,15,20.78,0.07,1.0,0.07
-121,Jefferson #11,São Paulo,15,19.25,0.07,1.53,0.04
-122,Gabriel #2,Pinheiros,15,20.27,0.07,1.33,0.05
-123,Eddy #33,KTO/Caxias do Sul,15,29.81,0.07,2.2,0.03
-124,Bennett #3,São Paulo,15,32.6,0.07,2.13,0.03
-125,Balbi #6,Flamengo,15,23.92,0.07,1.53,0.04
-126,Doria #7,Paulistano,15,13.78,0.07,1.47,0.05
-127,Magna #19,VipTech CMB,15,12.61,0.07,1.8,0.04
-128,Deryk #9,Paulistano,15,28.62,0.07,1.4,0.05
-129,T. Faria #1,Pinheiros,1,4.83,0.0,0.0,1.0
-130,P. Barros #21,BRB/Brasília,1,1.12,0.0,0.0,1.0
-131,P. Costa #1,BRB/Brasília,1,1.12,0.0,0.0,1.0
-132,Rubinho #15,KTO/Caxias do Sul,1,1.3,0.0,0.0,1.0
-133,Daniel #0,Paulistano,1,3.3,0.0,0.0,1.0
-134,Cadu #10,BRB/Brasília,1,0.07,0.0,0.0,1.0
-135,Jamison #6,Pinheiros,1,0.32,0.0,0.0,1.0
-136,André #23,Paulistano,1,0.8,0.0,0.0,1.0
-137,Du Klafke #14,Sesi Franca,1,1.53,0.0,0.0,1.0
-138,Kirsten #11,Pato Basquete,1,2.75,0.0,0.0,1.0
-139,Léo Abreu #13,Sesi Franca,2,1.6,0.0,0.0,1.0
-140,Cestari #22,Corinthians,2,0.55,0.0,0.0,1.0
-141,Vinícius #3,Paulistano,2,2.87,0.0,0.5,0.0
-142,Lukas Josuel #12,Bauru,2,1.26,0.0,0.0,1.0
-143,Capela #5,Pinheiros,2,1.47,0.0,0.0,1.0
-144,Victorino #21,Paulistano,2,1.65,0.0,0.0,1.0
-145,Alexandrino #13,UNIFACISA,2,8.53,0.0,1.5,0.0
-146,Ziggy #14,Mogi,2,4.38,0.0,0.5,0.0
-147,Ruan #9,Flamengo,3,2.7,0.0,0.0,1.0
-148,J. Socas #54,BRB/Brasília,3,18.72,0.0,1.67,0.0
-149,Vitor #7,Sesi Franca,3,1.51,0.0,0.33,0.0
-150,Green #44,Sesi Franca,3,21.33,0.0,4.0,0.0
-151,Victor #3,Corinthians,3,1.02,0.0,0.0,1.0
-152,Colina #8,Mogi,3,4.84,0.0,1.33,0.0
-153,Rapha #1,VipTech CMB,3,1.76,0.0,0.33,0.0
-154,Smith #10,Sesi Franca,3,15.18,0.0,1.0,0.0
-155,Augusto #46,Minas,3,4.72,0.0,0.0,1.0
-156,Elvis F. #17,Pinheiros,3,1.04,0.0,1.33,0.0
-157,Dias #31,Minas,3,6.32,0.0,1.0,0.0
-158,Ribeiro #12,Minas,4,7.15,0.0,1.0,0.0
-159,Pedro Silva #6,Mogi,4,2.2,0.0,0.0,1.0
-160,Dida #41,KTO/Caxias do Sul,4,7.29,0.0,1.75,0.0
-161,Cristhyã #41,Flamengo,4,2.33,0.0,0.25,0.0
-162,Djalo #35,Corinthians,4,2.77,0.0,0.0,1.0
-163,L. Muller #10,VipTech CMB,4,8.66,0.0,1.75,0.0
-164,Murilo #5,Pato Basquete,4,4.33,0.0,0.5,0.0
-165,Arthur #4,BRB/Brasília,5,21.03,0.0,3.0,0.0
-166,Lobo #9,Fortaleza B. C.,5,3.63,0.0,0.4,0.0
-167,Felipe #11,BRB/Brasília,5,4.32,0.0,0.0,1.0
-168,Nathan #43,Sesi Franca,5,3.42,0.0,0.4,0.0
-169,D. Penteado #12,São Paulo,5,3.64,0.0,0.8,0.0
-170,Lassance #24,Fortaleza B. C.,5,6.17,0.0,0.0,1.0
-171,Gemerson #6,BRB/Brasília,5,27.11,0.0,1.6,0.0
-172,Maciel #34,Flamengo,6,4.04,0.0,0.33,0.0
-173,Luis #9,Cerrado Basquete,6,4.04,0.0,0.33,0.0
-174,Schneider #18,Fortaleza B. C.,6,13.96,0.0,1.33,0.0
-175,João Pedro #16,Bauru,6,6.54,0.0,0.83,0.0
-176,Buiú #14,Paulistano,7,3.37,0.0,0.57,0.0
-177,Ludwig #14,Corinthians,7,2.27,0.0,0.29,0.0
-178,Figueroa #33,VipTech CMB,8,22.68,0.0,2.63,0.0
-179,Igor #20,São Paulo,8,3.84,0.0,0.38,0.0
-180,Mogi #19,Mogi,8,19.54,0.0,1.63,0.0
-181,P. Rava #7,BRB/Brasília,9,24.11,0.0,1.78,0.0
-182,Danilo #17,BRB/Brasília,9,14.34,0.0,0.67,0.0
-183,Derick #8,Pato Basquete,9,3.57,0.0,0.56,0.0
-184,Sena #7,Pinheiros,9,13.57,0.0,0.67,0.0
-185,David Jackson #32,Minas,9,27.9,0.0,1.22,0.0
-186,Marquinhos #11,Flamengo,9,23.39,0.0,1.56,0.0
-187,Lucas #10,Pato Basquete,10,20.98,0.0,2.0,0.0
-188,Alexey Borges #8,Bauru,10,34.72,0.0,2.3,0.0
-189,Nezinho #23,BRB/Brasília,10,26.94,0.0,2.8,0.0
-190,L. Brito #6,VipTech CMB,10,6.77,0.0,1.3,0.0
-191,Emanuel Matias #11,Bauru,10,3.9,0.0,1.2,0.0
-192,Gabriel #8,BRB/Brasília,11,10.41,0.0,0.55,0.0
-193,Adriano Big #4,KTO/Caxias do Sul,11,7.59,0.0,1.36,0.0
-194,Gegê #19,Corinthians,11,24.62,0.0,2.55,0.0
-195,Pedro Nunes #24,Flamengo,11,8.18,0.0,0.82,0.0
-196,Beto #5,Paulistano,11,4.62,0.0,0.55,0.0
-197,Dalaqua #8,Corinthians,12,9.5,0.0,1.58,0.0
-198,Fuller #2,Corinthians,12,33.61,0.0,2.0,0.0
-199,Languas #20,Paulistano,12,7.83,0.0,1.75,0.0
-200,Barnes #34,UNIFACISA,13,21.96,0.0,1.77,0.0
-201,Fischer #1,Corinthians,13,24.33,0.0,2.69,0.0
-202,Fúlvio #2,Mogi,13,31.17,0.0,1.62,0.0
-203,Eugeniusz #6,KTO/Caxias do Sul,14,8.5,0.0,2.36,0.0
-204,Queiros #3,Minas,14,14.97,0.0,1.29,0.0
-205,B. Fiorotto #21,Cerrado Basquete,14,16.84,0.0,2.14,0.0
-206,Gemadinha #35,UNIFACISA,14,10.55,0.0,1.79,0.0
-207,Davi #5,Minas,14,24.74,0.0,2.71,0.0
-208,Ruivo #4,Paulistano,15,30.92,0.0,1.4,0.0
-209,I. Thornton #0,Pato Basquete,15,31.86,0.0,1.27,0.0
-210,Frierson #3,VipTech CMB,15,21.18,0.0,1.67,0.0
-211,Larry Taylor #4,Bauru,15,27.22,0.0,1.53,0.0
-212,Alexei Patrício #3,Bauru,15,8.16,0.0,1.4,0.0
-213,Shamell #8,São Paulo,15,29.28,0.0,1.53,0.0
-214,Vitão #10,Paulistano,15,27.39,0.0,2.13,0.0
-215,G. Basílio #10,Pinheiros,15,24.4,0.0,2.33,0.0
-216,Lessa #32,Mogi,15,25.81,0.0,3.33,0.0
-217,Yago #2,Flamengo,15,25.55,0.0,2.0,0.0
-218,Chuzito #8,Flamengo,15,25.42,0.0,1.6,0.0
-219,Vezaro #10,UNIFACISA,15,17.46,0.0,1.67,0.0
+1,Nogueira #92,Fortaleza B. C.,10,17.62,1.4,1.6,0.88
+2,João Vitor #0,UNIFACISA,13,18.24,1.38,2.31,0.6
+3,Mathias #12,Fortaleza B. C.,30,25.63,0.97,2.73,0.35
+4,Lucas Mariano #28,São Paulo,30,29.09,0.97,2.13,0.45
+5,Teichmann #11,Pinheiros,27,27.05,0.89,2.78,0.32
+6,Sualisson #14,Fortaleza B. C.,29,24.97,0.86,2.83,0.3
+7,Gui Santos #11,Minas,32,20.94,0.84,2.63,0.32
+8,Leonardo #21,UNIFACISA,12,13.88,0.83,3.0,0.28
+9,Georginho #14,São Paulo,30,32.77,0.83,2.07,0.4
+10,Maique #35,Paulistano,32,24.17,0.81,2.97,0.27
+11,Renan #44,São Paulo,29,23.5,0.79,1.79,0.44
+12,Wesley #21,Mogi,35,29.02,0.74,2.97,0.25
+13,Gruber #20,Mogi,34,21.68,0.71,2.74,0.26
+14,Márcio #3,Sesi Franca,30,16.56,0.7,2.67,0.26
+15,Lucas Dias #9,Sesi Franca,32,33.78,0.66,2.25,0.29
+16,Sérgio #1,Cerrado Basquete,30,14.9,0.63,2.23,0.28
+17,Miller #33,Corinthians,32,27.28,0.59,2.28,0.26
+18,Diego #15,Bauru,34,19.89,0.59,2.71,0.22
+19,Siewert #25,Corinthians,26,25.61,0.54,2.15,0.25
+20,Alex #13,Cerrado Basquete,26,15.25,0.54,1.96,0.27
+21,Funches III #1,Pato Basquete,29,24.03,0.48,3.17,0.15
+22,Douglas Santos #0,Mogi,29,19.68,0.48,3.21,0.15
+23,Batista #13,Minas,32,22.65,0.47,1.81,0.26
+24,Paranhos #24,UNIFACISA,25,23.88,0.44,2.84,0.15
+25,Scheuer #14,Pato Basquete,32,23.94,0.44,2.28,0.19
+26,L. Cauê #23,Corinthians,32,14.98,0.44,2.47,0.18
+27,Ronald #6,Minas,24,17.06,0.42,2.88,0.14
+28,Leal #2,Pato Basquete,32,18.7,0.41,3.31,0.12
+29,Demétrio #71,Flamengo,30,19.76,0.4,1.67,0.24
+30,Tyrone Curnell #0,Bauru,35,28.26,0.4,3.14,0.13
+31,Felipe #16,Mogi,18,3.47,0.39,0.5,0.78
+32,Humberto #19,Pinheiros,26,31.63,0.38,3.35,0.11
+33,Renato #15,Corinthians,27,23.73,0.37,2.33,0.16
+34,Mineiro #12,Flamengo,30,24.38,0.37,1.67,0.22
+35,M. Pajé #25,VipTech CMB,30,22.68,0.33,1.7,0.2
+36,Gui Deodato #1,Bauru,34,32.68,0.32,2.24,0.14
+37,Caio Torres #13,BRB/Brasília,28,23.42,0.32,2.04,0.16
+38,Tom #40,VipTech CMB,28,11.19,0.32,2.61,0.12
+39,Gerson #1,São Paulo,25,13.44,0.32,2.04,0.16
+40,R. Rachel #20,Flamengo,22,7.75,0.32,0.91,0.35
+41,Cauê #8,Paulistano,19,27.07,0.32,1.53,0.21
+42,Yeager #3,BRB/Brasília,16,31.82,0.31,2.06,0.15
+43,Nesbitt #25,Minas,29,25.94,0.31,2.86,0.11
+44,Du Sommer #17,Paulistano,13,24.7,0.31,3.0,0.1
+45,M. Douglas #13,Pinheiros,26,10.06,0.31,1.08,0.29
+46,Olivinha #16,Flamengo,26,21.39,0.31,1.31,0.24
+47,Buffat #9,Pinheiros,23,23.39,0.3,2.26,0.13
+48,Martinez #25,Flamengo,17,19.08,0.29,1.88,0.16
+49,Holloway #1,Fortaleza B. C.,24,33.49,0.29,2.75,0.11
+50,Gabriel Jaú #25,Bauru,31,19.33,0.29,3.13,0.09
+51,Dikembe #20,Bauru,35,13.64,0.29,1.71,0.17
+52,Hettsheimeir #30,Flamengo,32,21.14,0.28,1.84,0.15
+53,Gabriel #12,Pato Basquete,11,12.91,0.27,1.64,0.17
+54,Cauê #8,Fortaleza B. C.,26,24.07,0.27,2.58,0.1
+55,Wiggins #15,Cerrado Basquete,15,24.6,0.27,1.07,0.25
+56,Gui Abreu #33,Sesi Franca,30,18.88,0.27,1.87,0.14
+57,Johnson Sr #22,Minas,30,26.5,0.27,2.47,0.11
+58,Rafael #12,Paulistano,8,2.68,0.25,0.5,0.5
+59,Zach Graham #32,Bauru,20,27.9,0.25,1.8,0.14
+60,Arthur #36,Corinthians,28,22.72,0.25,2.0,0.13
+61,D. Nunes #24,Cerrado Basquete,28,27.44,0.25,1.93,0.13
+62,Antonio #11,KTO/Caxias do Sul,32,30.81,0.25,2.78,0.09
+63,Kurtz #34,Mogi,32,9.6,0.25,1.53,0.16
+64,Hubner #77,Sesi Franca,35,18.22,0.23,2.23,0.1
+65,D. Souza #12,Pinheiros,9,12.87,0.22,2.0,0.11
+66,Pedro #9,KTO/Caxias do Sul,32,21.34,0.22,2.94,0.07
+67,Doria #7,Paulistano,33,14.02,0.21,1.67,0.13
+68,Alexandrino #13,UNIFACISA,19,12.32,0.21,2.58,0.08
+69,Da Silva #7,KTO/Caxias do Sul,29,23.63,0.21,1.72,0.12
+70,Fuzaro #6,Sesi Franca,34,27.15,0.21,2.32,0.09
+71,Felipe #33,Fortaleza B. C.,20,27.35,0.2,2.6,0.08
+72,Crescenzi #8,Cerrado Basquete,30,20.33,0.2,2.2,0.09
+73,Marcelão #5,BRB/Brasília,30,16.99,0.2,2.53,0.08
+74,Luizinho #11,VipTech CMB,30,19.61,0.2,1.6,0.13
+75,Eddy #33,KTO/Caxias do Sul,31,33.75,0.19,2.35,0.08
+76,Munford #14,Pinheiros,26,24.06,0.19,2.0,0.1
+77,Paulo #7,Cerrado Basquete,27,26.87,0.19,1.93,0.1
+78,Jefferson #11,São Paulo,29,19.91,0.17,1.48,0.12
+79,Thomas #24,Paulistano,18,25.2,0.17,1.67,0.1
+80,Lucão #31,VipTech CMB,30,20.23,0.17,2.33,0.07
+81,Fuller #14,Cerrado Basquete,13,31.74,0.15,1.31,0.12
+82,Shilton #66,KTO/Caxias do Sul,26,29.26,0.15,3.12,0.05
+83,Betinho #26,UNIFACISA,33,26.08,0.15,2.36,0.06
+84,Pastor #9,UNIFACISA,33,21.27,0.15,2.12,0.07
+85,André Goes #40,Sesi Franca,33,30.67,0.15,2.76,0.05
+86,Pezão #21,VipTech CMB,20,10.81,0.15,1.3,0.12
+87,Ambrosino #35,Cerrado Basquete,28,13.85,0.14,1.96,0.07
+88,Rafa Moreira #9,Minas,28,14.85,0.14,2.64,0.05
+89,Laster #14,BRB/Brasília,28,28.02,0.14,2.04,0.07
+90,Mogi #19,Mogi,28,17.42,0.14,1.39,0.1
+91,Fabricio #10,Mogi,35,26.16,0.14,2.29,0.06
+92,Barbosa #32,Paulistano,29,17.2,0.14,2.03,0.07
+93,Rashaun #17,Fortaleza B. C.,30,23.92,0.13,1.67,0.08
+94,Figueroa #33,VipTech CMB,23,25.9,0.13,2.43,0.05
+95,Cook #55,VipTech CMB,23,30.72,0.13,2.61,0.05
+96,Aquiles #20,Pato Basquete,31,13.18,0.13,1.77,0.07
+97,Zubiaurre #31,Pinheiros,24,11.93,0.13,1.29,0.1
+98,Adyel #4,Sesi Franca,32,10.71,0.13,1.19,0.11
+99,Rafa #16,UNIFACISA,33,20.01,0.12,2.33,0.05
+100,Nehemias #7,UNIFACISA,33,22.65,0.12,1.76,0.07
+101,Alex Garcia #10,Bauru,34,31.36,0.12,2.94,0.04
+102,Brite #3,Fortaleza B. C.,26,29.39,0.12,2.58,0.04
+103,Marquinhos #11,Flamengo,26,24.13,0.12,1.19,0.1
+104,David Jackson #32,Minas,27,28.77,0.11,1.3,0.09
+105,Coleman #9,Mogi,28,29.37,0.11,2.71,0.04
+106,Jhonatan #7,Flamengo,29,17.94,0.1,1.86,0.06
+107,Servelin #3,Pato Basquete,29,19.62,0.1,2.17,0.05
+108,Gabriel #2,Pinheiros,30,25.15,0.1,1.57,0.06
+109,Matheusinho #9,Pato Basquete,30,25.22,0.1,2.03,0.05
+110,Magna #19,VipTech CMB,30,14.03,0.1,1.87,0.05
+111,Lucas Lima #4,Cerrado Basquete,30,20.99,0.1,2.13,0.05
+112,Elinho #5,Sesi Franca,31,31.48,0.1,1.84,0.05
+113,Djalo #35,Corinthians,11,5.29,0.09,0.45,0.2
+114,Ianguas #20,Paulistano,22,6.36,0.09,1.36,0.07
+115,Buiú #14,Paulistano,12,3.08,0.08,0.58,0.14
+116,Jamison #6,Pinheiros,12,14.14,0.08,1.33,0.06
+117,P. Rava #7,BRB/Brasília,24,23.08,0.08,1.75,0.05
+118,Nico #22,KTO/Caxias do Sul,25,31.02,0.08,2.2,0.04
+119,Edu Marília #11,Sesi Franca,25,5.57,0.08,1.08,0.07
+120,W. Sena #21,Pinheiros,26,14.21,0.08,1.69,0.05
+121,Alex #10,Fortaleza B. C.,26,18.78,0.08,2.0,0.04
+122,Cassiano #5,Mogi,27,10.3,0.07,0.96,0.08
+123,Valter #28,Pinheiros,14,12.39,0.07,1.57,0.05
+124,Shamell #8,São Paulo,29,29.79,0.07,1.52,0.05
+125,Castellon #8,VipTech CMB,29,19.6,0.07,1.48,0.05
+126,R. Stabile #17,KTO/Caxias do Sul,29,7.54,0.07,1.48,0.05
+127,Pedro Nunes #24,Flamengo,29,14.53,0.07,1.62,0.04
+128,Alexey Borges #8,Bauru,29,32.85,0.07,2.41,0.03
+129,Coelho #10,Cerrado Basquete,15,26.07,0.07,2.33,0.03
+130,Rodrigues #16,Pato Basquete,30,9.05,0.07,1.0,0.07
+131,Gabriel #7,Fortaleza B. C.,16,5.57,0.06,0.44,0.14
+132,Pedro Teruel #12,KTO/Caxias do Sul,32,28.09,0.06,2.81,0.02
+133,Davi #5,Minas,32,24.87,0.06,2.5,0.03
+134,Fúlvio #2,Mogi,32,30.11,0.06,1.81,0.03
+135,Vezaro #10,UNIFACISA,33,18.98,0.06,1.76,0.03
+136,Green #44,Sesi Franca,17,24.85,0.06,2.06,0.03
+137,Arthur #4,BRB/Brasília,20,22.87,0.05,2.7,0.02
+138,Pierotti #4,VipTech CMB,20,31.97,0.05,1.8,0.03
+139,Parodi #21,Minas,22,21.94,0.05,1.82,0.03
+140,Isaac #7,São Paulo,24,16.3,0.04,1.83,0.02
+141,Augusto #55,Pato Basquete,25,21.44,0.04,2.48,0.02
+142,Balbi #6,Flamengo,25,23.45,0.04,1.6,0.03
+143,Jefferson #0,BRB/Brasília,25,18.98,0.04,1.28,0.03
+144,G. Basílio #10,Pinheiros,27,23.0,0.04,2.44,0.02
+145,Chuzito #8,Flamengo,27,24.32,0.04,1.59,0.02
+146,Vezarinho #10,Corinthians,27,9.04,0.04,0.78,0.05
+147,Eugeniusz #6,KTO/Caxias do Sul,28,9.55,0.04,1.82,0.02
+148,I. Thornton #0,Pato Basquete,28,31.7,0.04,1.43,0.03
+149,Von Haydin #30,Cerrado Basquete,29,17.51,0.03,1.52,0.02
+150,Vitão #10,Paulistano,30,25.01,0.03,1.9,0.02
+151,Dawkins #10,São Paulo,30,17.7,0.03,1.27,0.03
+152,Yago #2,Flamengo,31,24.82,0.03,2.0,0.02
+153,Bennett #3,São Paulo,31,30.64,0.03,1.9,0.02
+154,Pecos #23,UNIFACISA,33,18.38,0.03,1.0,0.03
+155,Jimmy #18,Paulistano,33,25.29,0.03,2.12,0.01
+156,Deryk #9,Paulistano,33,25.92,0.03,1.24,0.02
+157,Larry Taylor #4,Bauru,35,22.94,0.03,1.31,0.02
+158,Daniel #0,Paulistano,1,3.3,0.0,0.0,1.0
+159,C. Gonçalves #21,São Paulo,1,0.13,0.0,0.0,1.0
+160,Du Klafke #14,Sesi Franca,1,1.53,0.0,0.0,1.0
+161,Reynan #29,Sesi Franca,1,0.28,0.0,0.0,1.0
+162,P. Barros #21,BRB/Brasília,1,1.12,0.0,0.0,1.0
+163,P. Costa #1,BRB/Brasília,1,1.12,0.0,0.0,1.0
+164,Ziggy #14,Mogi,2,4.38,0.0,0.5,0.0
+165,Rubinho #15,KTO/Caxias do Sul,2,1.2,0.0,0.0,1.0
+166,J V Vieira #90,Cerrado Basquete,2,1.33,0.0,0.0,1.0
+167,Victorino #21,Paulistano,2,1.65,0.0,0.0,1.0
+168,Santana #34,Pinheiros,2,18.42,0.0,1.5,0.0
+169,Duarte #17,Cerrado Basquete,2,3.35,0.0,0.5,0.0
+170,Vinícius #3,Paulistano,2,2.87,0.0,0.5,0.0
+171,Cestari #22,Corinthians,2,0.55,0.0,0.0,1.0
+172,Wander Broock #26,VipTech CMB,3,1.04,0.0,0.33,0.0
+173,Cadu #10,BRB/Brasília,3,0.96,0.0,0.0,1.0
+174,J. Socas #54,BRB/Brasília,3,18.72,0.0,1.67,0.0
+175,Victor #3,Corinthians,3,1.02,0.0,0.0,1.0
+176,Elvis F. #17,Pinheiros,3,1.04,0.0,1.33,0.0
+177,Marco #10,KTO/Caxias do Sul,3,0.27,0.0,0.0,1.0
+178,André #23,Paulistano,3,3.84,0.0,0.67,0.0
+179,Léo Abreu #13,Sesi Franca,3,1.09,0.0,0.0,1.0
+180,Pedro Silva #6,Mogi,4,2.2,0.0,0.0,1.0
+181,Varejão #50,VipTech CMB,4,1.74,0.0,0.25,0.0
+182,Cristhyã #41,Flamengo,4,2.33,0.0,0.25,0.0
+183,L. Muller #10,VipTech CMB,4,8.66,0.0,1.75,0.0
+184,Murilo #5,Pato Basquete,4,4.33,0.0,0.5,0.0
+185,Camargo #13,Flamengo,5,6.72,0.0,0.2,0.0
+186,Lukas Josuel #12,Bauru,5,1.91,0.0,0.4,0.0
+187,João Pedro #16,Bauru,6,6.54,0.0,0.83,0.0
+188,T. Faria #1,Pinheiros,6,15.14,0.0,0.33,0.0
+189,Nathan #43,Sesi Franca,6,3.2,0.0,0.33,0.0
+190,Vitor #7,Sesi Franca,7,2.08,0.0,0.43,0.0
+191,Dida #41,KTO/Caxias do Sul,7,4.91,0.0,1.29,0.0
+192,Ribeiro #12,Minas,7,4.4,0.0,1.14,0.0
+193,Ludwig #14,Corinthians,8,2.44,0.0,0.38,0.0
+194,Capela #5,Pinheiros,8,13.3,0.0,0.38,0.0
+195,Augusto #46,Minas,9,3.29,0.0,0.0,1.0
+196,Ruan #9,Flamengo,9,5.69,0.0,0.44,0.0
+197,Colina #8,Mogi,10,4.67,0.0,1.1,0.0
+198,Dias #31,Minas,10,4.42,0.0,0.5,0.0
+199,L. Brito #6,VipTech CMB,11,6.3,0.0,1.18,0.0
+200,Jonatan #50,Paulistano,11,6.46,0.0,0.45,0.0
+201,Emanuel Matias #11,Bauru,11,3.57,0.0,1.09,0.0
+202,Kirsten #11,Pato Basquete,11,6.57,0.0,0.73,0.0
+203,Maciel #34,Flamengo,12,5.28,0.0,0.5,0.0
+204,Rapha #1,VipTech CMB,13,2.4,0.0,0.69,0.0
+205,Sahdi #32,UNIFACISA,15,19.11,0.0,2.0,0.0
+206,D. Penteado #12,São Paulo,15,8.11,0.0,1.0,0.0
+207,Igor #20,São Paulo,15,7.77,0.0,0.53,0.0
+208,Felipe #11,BRB/Brasília,15,3.77,0.0,0.33,0.0
+209,Lobo #9,Fortaleza B. C.,16,5.26,0.0,0.63,0.0
+210,B. Fiorotto #21,Cerrado Basquete,16,15.74,0.0,2.0,0.0
+211,Lassance #24,Fortaleza B. C.,16,8.62,0.0,0.69,0.0
+212,Adriano Big #4,KTO/Caxias do Sul,17,6.84,0.0,1.29,0.0
+213,Smith #10,Sesi Franca,17,24.34,0.0,2.65,0.0
+214,Gemerson #6,BRB/Brasília,17,26.3,0.0,2.29,0.0
+215,Luis #9,Cerrado Basquete,18,7.99,0.0,0.72,0.0
+216,Dalaqua #8,Corinthians,19,7.89,0.0,1.26,0.0
+217,Danilo #17,BRB/Brasília,19,10.22,0.0,0.37,0.0
+218,Sena #7,Pinheiros,21,15.12,0.0,1.05,0.0
+219,Schneider #18,Fortaleza B. C.,23,16.22,0.0,1.83,0.0
+220,Gabriel #8,BRB/Brasília,23,9.47,0.0,0.65,0.0
+221,Beto #5,Paulistano,24,3.91,0.0,0.58,0.0
+222,Derick #8,Pato Basquete,24,6.23,0.0,1.08,0.0
+223,Nezinho #23,BRB/Brasília,25,26.26,0.0,2.72,0.0
+224,Alexei Patrício #3,Bauru,25,7.03,0.0,1.12,0.0
+225,Gegê #19,Corinthians,26,20.2,0.0,2.5,0.0
+226,Gemadinha #35,UNIFACISA,26,8.0,0.0,1.46,0.0
+227,Lucas #10,Pato Basquete,27,22.34,0.0,2.04,0.0
+228,Frierson #3,VipTech CMB,30,18.95,0.0,1.57,0.0
+229,Fuller #2,Corinthians,31,32.99,0.0,1.94,0.0
+230,Fischer #1,Corinthians,31,25.52,0.0,2.61,0.0
+231,Barnes #34,UNIFACISA,31,21.51,0.0,1.94,0.0
+232,Queiros #3,Minas,32,16.34,0.0,1.56,0.0
+233,Ruivo #4,Paulistano,33,28.75,0.0,1.27,0.0
+234,Lessa #32,Mogi,35,22.86,0.0,2.71,0.0

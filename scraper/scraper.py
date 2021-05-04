@@ -1,34 +1,14 @@
-# %% import libraries
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import os
+from tqdm import tqdm
 
-
-# %% function that scrapes table for the given URL and returns it as a DataFrame
-def scrape_table(base_url, tag):
-    url = f'{base_url}{tag}'
-    scraped_data = pd.read_html(url)
-    data = scraped_data[0]
-
-    return data
-
-
-# %% function that scrapes a player's listed position and returns a
-# tuple with player's name and position (player, position)
-def scrape_players_positions(url):
-    r = requests.get(url)
-    soup = BeautifulSoup(r.content, 'html.parser')
-    position = soup.select_one('td:last-child').text
-
-    return position
-
-# %% list of tags and urls to loop through
-base_urls = [
+BASE_URLS = [
     'https://lnb.com.br/nbb/estatisticas/'
 ]
 
-tags = [
+TAGS = [
     'cestinhas',
     'rebotes',
     'assistencias',
@@ -41,50 +21,88 @@ tags = [
 ]
 
 
-# %% creates DataFrames for players positions
-# gets soup object from NBB's main stats page
-positions_url = base_urls[0]
-r = requests.get(positions_url)
-soup = BeautifulSoup(r.content, 'html.parser')
+def get_soup(url):
+    """Gets soup object for given URL."""
+    r = requests.get(url)
+    soup = BeautifulSoup(r.content, 'html.parser')
+    return soup
 
-# gets list of players' pages URLs
-players_urls_elements = soup.select('tbody tr td.headcol.no_sorter a')
-players_names = [i.text for i in players_urls_elements]
-players_urls = [i['href'] for i in players_urls_elements]
 
-# creates list of tuples of players' names and positions
-players_positions = []
-for i in players_urls:
-    players_positions.append(
-        scrape_players_positions(i)
+def get_stats_table(base_url, tag):
+    """Scrapes the stats table for the given URL an returns it as a 
+    DataFrame."""
+    url = f'{base_url}{tag}'
+    data = pd.read_html(url)[0]
+    return data
+
+
+def get_player_position(url):
+    """Scrapes player's position data from given URL and return a tuple
+     with their position and their team. Returns data as a string."""
+    r = requests.get(url)
+    soup = BeautifulSoup(r.content, 'html.parser')
+    position = soup.select_one('td:last-child').text.strip()
+    return position
+
+
+def get_players_urls_names_teams(soup):
+    """Scrapes players pages' URLs plus players' names and teams data.
+    Returns scraped data as tuple."""
+    urls_tags = soup.select('tbody tr td.headcol.no_sorter a')
+    urls = [i['href'] for i in urls_tags]
+    names = [i.text.strip() for i in urls_tags]
+    teams_tags = soup.select('tbody tr td:nth-of-type(3)')
+    teams = [i.text.strip() for i in teams_tags]
+    return urls, names, teams
+
+
+def get_players_positions_df(urls, names, teams):
+    """Returns a DataFrame with players data."""
+    positions = []
+    for url in tqdm(urls):
+        positions.append(get_player_position(url))
+
+    players_names_and_positions = {
+        'Jogador': names,
+        'Posicao': positions,
+        'Equipe': teams
+    }
+
+    df = pd.DataFrame(players_names_and_positions)
+    return df
+
+
+def get_stats_dfs(base_urls, tags):
+    """Returns a list of DataFrames containing each stats table."""
+    dfs = [
+        get_stats_table(base_url, tag) for base_url in base_urls for tag in tags
+    ]
+    return dfs
+
+
+def main():
+    """Main function."""
+    # scrape players' data
+    soup = get_soup(BASE_URLS[0] + TAGS[0])
+    urls, names, teams = get_players_urls_names_teams(soup)
+
+    # get dfs
+    positions_df = get_players_positions_df(urls, names, teams)   
+    stats_dfs = get_stats_dfs(BASE_URLS, TAGS)
+
+    # outputs stats tables DataFrames based on tags names
+    for i in range(len(stats_dfs)):
+        stats_dfs[i].to_csv(
+            f'{os.path.dirname(__file__)}{os.sep}output{os.sep}{TAGS[i]}.csv',
+            index=False
+            )
+
+    # outputs positions DataFrame
+    positions_df.to_csv(
+        f'{os.path.dirname(__file__)}{os.sep}output{os.sep}posicoes.csv',
+        index=False
     )
 
-players_names_and_positions = {
-    'Jogador': players_names,
-    'Posicao': players_positions
-}
 
-# creates players' positions DataFrame
-df_positions = pd.DataFrame(players_names_and_positions)
-
-
-# %% creates list of scraped stats tables DataFrames 
-dfs = [
-    scrape_table(base_url, tag) for base_url in base_urls for tag in tags
-]
-
-# %% outputs all DataFrames to CSV's
-# outputs stats tables DataFrames based on tags names
-for i in range(len(dfs)):
-    dfs[i].to_csv(
-        f'{os.path.dirname(__file__)}{os.sep}output{os.sep}{tags[i]}.csv',
-        index=False
-        )
-
-# outputs positions DataFrame
-df_positions.to_csv(
-    f'{os.path.dirname(__file__)}{os.sep}output{os.sep}posicoes.csv',
-    index=False
-)
-
-# %%
+if __name__ == "__main__":
+    main()
