@@ -1,10 +1,18 @@
-"""Código para a limpeza inicial dos dados raspados do site do NBB."""
+"""Code for the inital data cleaning of NBB website's scraped data."""
 import pandas as pd
 import numpy as np
 import os
 import re
 
-PATH = "../data/scraped/"
+INPUT_PATH = (
+    f"{os.path.dirname(os.path.dirname(os.path.abspath(__file__)))}{os.sep}"
+    f"data{os.sep}scraped{os.sep}"
+)
+    
+OUTPUT_PATH = (
+    f"{os.path.dirname(os.path.dirname(os.path.abspath(__file__)))}{os.sep}"
+    f"data{os.sep}cleaned{os.sep}"
+)
 
 
 def get_dfs(path):
@@ -42,27 +50,26 @@ def add_shirts_numbers(df):
 def clean_players_names(df):
     """Clean players' names."""
     df['Jogador'] = df['Jogador'].str.replace(
-        re.compile(r"\s#\d\d?"),
-        ''
-        )
+        re.compile(r"\s#\d\d?"), ''
+    )
 
 
 def main():
     """Main function."""
-    dfs = get_dfs(path=PATH)
+    dfs = get_dfs(path=INPUT_PATH)
     remove_ranks(dfs)
     merge_dfs(dfs)
     all_data = dfs[-1]
-    positions_df = pd.read_csv(PATH+"posicoes.csv")
+    positions_df = pd.read_csv(INPUT_PATH+"posicoes.csv")
     all_data = pd.merge(
         all_data, positions_df, how='left', on=['Jogador', 'Equipe']
-        )
+    )
     add_shirts_numbers(all_data)
     clean_players_names(all_data)
 
     # export data
-    all_data.to_csv('../data/cleaned/nbb_estatisticas.csv', index=False)
-    all_data.to_excel('../data/cleaned/nbb_estatisticas.xlsx', index=False)
+    all_data.to_csv(OUTPUT_PATH+'/nbb_estatisticas.csv', index=False)
+    all_data.to_excel(OUTPUT_PATH+'/nbb_estatisticas.xlsx', index=False)
 
 
 if __name__ == "__main__":

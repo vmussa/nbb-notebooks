@@ -20,6 +20,11 @@ TAGS = [
     'duplos-duplos',   
 ]
 
+OUTPUT_PATH = (
+    f"{os.path.dirname(os.path.dirname(os.path.abspath(__file__)))}{os.sep}"
+    f"data{os.sep}scraped{os.sep}"
+)
+
 
 def get_soup(url):
     """Gets soup object for given URL."""
@@ -91,15 +96,15 @@ def main():
     stats_dfs = get_stats_dfs(BASE_URLS, TAGS)
 
     # outputs stats tables DataFrames based on tags names
-    for i in range(len(stats_dfs)):
+    for i, _ in enumerate(stats_dfs):
         stats_dfs[i].to_csv(
-            f'{os.path.dirname(__file__)}{os.sep}output{os.sep}{TAGS[i]}.csv',
+            f'{OUTPUT_PATH}{TAGS[i]}.csv',
             index=False
-            )
+        )
 
     # outputs positions DataFrame
     positions_df.to_csv(
-        f'{os.path.dirname(__file__)}{os.sep}output{os.sep}posicoes.csv',
+        f'{OUTPUT_PATH}posicoes.csv',
         index=False
     )
 
